@@ -1,0 +1,11 @@
+Package: brownianMovement
+Title: Package for brownianMovement
+Version: 0.0.0.9000
+Date: 2020-08-21
+Authors@R: person("Di","Zhou", email = 'ad709970927@gmail.com', role = c("aut","cre"), comment = c(ORCID = "0000-0001-9661-1823"))
+Description: brownianMovement simulation.
+License: MIT
+Depends: R (>= 3.4.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
